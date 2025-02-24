@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(171,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(390,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(391,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(395,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(396,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(397,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(398,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\ProiectPrelucrareGrafica\main.cpp(833,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  ProiectPrelucrareGrafica.vcxproj -> C:\Users\Windows 10 PRO\Desktop\PG\ProiectPrelucrareGrafica\x64\Debug\ProiectPrelucrareGrafica.exe
