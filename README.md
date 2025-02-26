@@ -2,3 +2,11 @@
  The project aims to simulate a scene as close to reality as possible, including various light sources, textured materials, and dynamic animations of objects
 
 ![My Image](pg1.png)
+
+![My Image](pg2.png)
+
+![My Image](pg3.png)
+
+![My Image](pg4.png)
+
+![My Image](pg5.png)
